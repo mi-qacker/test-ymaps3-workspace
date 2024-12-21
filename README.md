@@ -13,7 +13,7 @@ Add your `APIKEY` to the ENV variables for each project:
 VITE_APIKEY=<YOUR_APIKEY>
 ```
 
-Install the package that needs to be checked into the project:
+Install the package that needs to be checked into the project (if the package is located locally on the computer, then check that it is built.):
 
 ```shell
 npm install <package-path>
