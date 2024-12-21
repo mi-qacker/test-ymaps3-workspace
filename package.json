@@ -1,0 +1,12 @@
+{
+  "name": "test-ymaps3-workspace",
+  "version": "1.0.0",
+  "scripts": {},
+  "workspaces": [
+    "vanilla-project",
+    "react-project"
+  ],
+  "devDependencies": {
+    "@yandex/ymaps3-types": "^1.0.15542062"
+  }
+}
